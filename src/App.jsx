@@ -9,7 +9,7 @@ const App = () => {
   const getColor = () => {
     if (count > 10) return "text-green-400";
     if (count < 0) return "text-red-400";
-    return "text-cyan-400";
+    return "text-magenta-400";
   };
 
   return (
