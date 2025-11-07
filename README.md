@@ -111,10 +111,9 @@ https://<your-github-username>.github.io/react-smart-counter/
 ## 🧑‍💻 Author  
 
 **Manjunath Kalkutagi**  
-🔗 [Portfolio](https://mankal-27.github.io/portfolio/)  
-🐙 [GitHub](https://github.com/mankal-27)  
-💼 [LinkedIn](https://linkedin.com/in/mkalkutagi)
-
+<a href="https://mankal-27.github.io/portfolio/" target="_blank">🔗 Portfolio</a>  
+<a href="https://github.com/mankal-27" target="_blank">🐙 GitHub</a>  
+<a href="https://linkedin.com/in/mkalkutagi" target="_blank">💼 LinkedIn</a>
 ---
 
 ## 🪪 License  
